@@ -1,3 +1,6 @@
+
+<img width="500" height="500" alt="ChatGPT_Image_10_de_ago _de_2025__10_30_41-removebg-preview" src="https://github.com/user-attachments/assets/535e1a8e-dcd4-4f4b-bd8b-1b90a0066143" />
+
 FOC006 – Quality Control & Supplier Management System
 📌 Overview
 FOC006 is a desktop application developed in Python (PySide6) designed for factory and supplier problem management, with a focus on quality control.
